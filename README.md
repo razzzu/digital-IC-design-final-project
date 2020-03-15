@@ -1,4 +1,4 @@
-# Digital-IC-design-final-project
+# Digital IC design final project
 
 This repository contains the My final project report from my digital IC design class
 
